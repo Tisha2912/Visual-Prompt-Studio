@@ -1,2 +1,6 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation class.
+**Name:** Tisha Patel
+
+**Course:** ARTS 1301 - Art Appreciation
+
+**Description:** This repository contains my Visual Prompt Studio assignments and portfolio for my Art Appreciation class.
