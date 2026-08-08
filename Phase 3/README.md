@@ -1,6 +1,6 @@
 # Visual Prompt Studio 3.1: Historical Context
 
-## 1. Prompt A — Art and the Afterlife
+## 1. Prompt A - Art and the Afterlife
 
 **Historical Theme:** Art and the Afterlife
 
@@ -20,7 +20,7 @@ SO create a highly detailed digital illustration seeking inspiration from Funera
 
 ---
 
-## 2. Prompt B — Symbolic Representation of the Divine
+## 2. Prompt B-Symbolic Representation of the Divine
 
 **Historical Theme:** Symbolic Representation of the Divine
 
